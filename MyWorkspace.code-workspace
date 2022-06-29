@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\JavaLearn"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSC202-2020set",
+		"git.ignoreLimitWarning": true,
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
